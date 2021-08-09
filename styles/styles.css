@@ -1,0 +1,80 @@
+nav
+{
+    background-color: red;
+}
+
+nav ul
+{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li
+{
+    list-style-type: none;
+    background-color: red;
+    display: inline;
+}
+
+nav ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+
+
+nav
+{
+    padding: 5px;
+}
+
+nav ul li
+{
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+nav ul li:hover
+{
+    background-color: black;
+}
+header
+{
+    background-color: green;
+    padding: 10px;
+}
+.vaccine {
+        text-align: center;
+    border: 5px solid black;
+    margin: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+#mainText
+{
+    color: black;
+    font-family: arial;
+    text-align: justify;
+}
+.fullWidthContent
+{
+    width: 100%;
+}
+.Videocontent 
+{
+    float:rght;
+    width:49%;
+    border:2px solid white;
+    max-height: 400px;
+    min-height: 400px;
+    overflow: auto
+}
+}
+
+.required {
+    font-weight:bold;
+    color: red;
+}
